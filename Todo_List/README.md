@@ -65,4 +65,4 @@ Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org
 - [Codemy](https://youtube.com/Vm0ivVxNaA8?si=0989P1RDKZRabFz)
 
 # Author
-[Charles Lughas](https://github.com/Baig-fatema)
+[Baig-fatema](https://github.com/Baig-fatema)
