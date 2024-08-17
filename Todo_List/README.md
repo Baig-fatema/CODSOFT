@@ -1,6 +1,6 @@
 # Simple TO-DO Application
 A simple and user-friendly Todo Application developed in Python using the Tkinter library.
-![Todo_list](tkinter_todo.PNG)
+![Todo_list](tkinter_todo.png)
 
 ## Table of Contents
 * [Description](#description)
@@ -26,11 +26,11 @@ Users can create, update, and track their to-do lists.
 ### Installation
 #### How to run the application
 * To use the application, you need to clone or download the repository to your local pc code editor terminal.
-```git clone https://github.com/lordlughas/CODSOT_AUGUST/TO-DO_LIST.git```
+```git clone https://github.com/Baig-fatema/CODSOT/Todo_List.git```
 * then, change directory to the todo list directory
-```cd ./TO-DO_LIST/```
+```cd ./Todo_List/```
 * run the to-do.py file
-```python -u to-do.py```
+```python main.py```
 
 ## Usage
 1. **Adding a Task:**
@@ -51,9 +51,6 @@ Users can create, update, and track their to-do lists.
   * Python 3.x
   * Tkinter library (usually included with Python)
 
-## License
-This project is licensed under the MIT License
-
 ## Acknowledgments
 Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org/3/library/tkinter.html) communities for their excellent documentation and resources. Also a sincere appreciation goes to @CODSOFT for the internship opportunity given to me that brought about this project.
 
@@ -64,4 +61,4 @@ Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org
 - [Codemy](https://youtube.com/Vm0ivVxNaA8?si=0989P1RDKZRabFz)
 
 # Author
-[Charles Lughas](https://github.com/lordlughas)
+[Charles Lughas](https://github.com/Baig-fatema)
