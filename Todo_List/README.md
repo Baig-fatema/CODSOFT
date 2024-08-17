@@ -51,6 +51,10 @@ Users can create, update, and track their to-do lists.
   * Python 3.x
   * Tkinter library (usually included with Python)
 
+## License
+This project is licensed under the MIT License
+
+
 ## Acknowledgments
 Thanks to the [Python](https://python.org) and [Tkinter](https://docs.python.org/3/library/tkinter.html) communities for their excellent documentation and resources. Also a sincere appreciation goes to @CODSOFT for the internship opportunity given to me that brought about this project.
 
