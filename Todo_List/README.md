@@ -1,6 +1,6 @@
 # Simple TO-DO Application
 A simple and user-friendly Todo Application developed in Python using the Tkinter library.
-![To-Do List](tkinter_todo.PNG)
+![Todo_list](tkinter_todo.PNG)
 
 ## Table of Contents
 * [Description](#description)
