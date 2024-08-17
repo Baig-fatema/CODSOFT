@@ -5,7 +5,7 @@ import sqlite3
 
 window=tk.Tk()
 window.title("TO DO LIST")
-# window.iconbitmap("calc.ico")
+
 window.config(background="cyan")
 window.geometry("600x400")
 window.minsize(height=444,width=1300)
