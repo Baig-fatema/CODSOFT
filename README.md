@@ -4,7 +4,7 @@ Welcome to the Codsoft Internship Projects repository! In this repository, you w
 # Table of Contents
 * [Todo List](Todo_List)
 * [Simple Calculator](simple_calculator)
-* [Password Generator](Password-Generator)
+* [Password Generator](password_generator)
 
 # Todo List
 Description: The Todo List application is a tkinter gui application. Users can add tasks, cross and uncross out tasks, and remove tasks from the list. It's a great way to practice fundamental data structures and control flow in programming.
