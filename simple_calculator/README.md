@@ -24,7 +24,7 @@ To get started with this calculator, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/simple_calculator.git
+   git clone https://github.com/Baig-fatema/CODSOFT/simple_calculator.git
    ```
 2. Navigate to the folder:
    `cd simple_calculator`
