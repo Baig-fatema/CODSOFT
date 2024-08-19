@@ -29,7 +29,7 @@ To get started with this calculator, follow these steps:
 2. Navigate to the folder:
    `cd simple_calculator`
 3. Run the calculator application:
-   `python calculator.py`
+   `python main.py`
 
 ## Usage
 * Enter numbers by clicking the number buttons (0-9).
