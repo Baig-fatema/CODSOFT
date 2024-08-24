@@ -2,7 +2,7 @@
 
 Welcome to the RPS Game with Tkinter GUI repository! This Python program creates a basic RPS Game application with a graphical user interface using the Tkinter library. It allows users to play game with computer.
 
-![Calculator Screenshot](rps_screenshot.png)
+![Calculator Screenshot](RPS_screenshot.png.png)
 
 ## Table of Contents
 
