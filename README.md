@@ -5,6 +5,7 @@ Welcome to the Codsoft Internship Projects repository! In this repository, you w
 * [Todo List](Todo_List)
 * [Simple Calculator](simple_calculator)
 * [Password Generator](password_generator)
+* [RPS_game](RPS_game)
 
 # Todo List
 Description: The Todo List application is a tkinter gui application. Users can add tasks, cross and uncross out tasks, and remove tasks from the list. It's a great way to practice fundamental data structures and control flow in programming.
@@ -20,3 +21,8 @@ Usage: Run the ``main.py`` file to launch the Simple Calculator. Follow the prom
 Description: The Password Generator is a utility that generates strong, random passwords. Users can specify the length of the passwords they need. This project provides hands-on experience with random number generation and string manipulation.
 
 Usage: Execute the ``main.py`` script to run the Password Generator. You will be prompted to enter the desired password length, and the tool will generate a password accordingly.
+
+# RPS Game
+Description: The RPS game is the simple Game Application . The Allow user and computer to play tha game, there are three buttons are there rock, paper and scissor. click on any of them computer will automatically randomly select any option using the python random module. the result will be shown at bottom with the scores.
+
+Usage: Execute the ``main.py`` script to run the RPS Game. You have to click on any of the 3 buttons at user end then result will be displayed.
